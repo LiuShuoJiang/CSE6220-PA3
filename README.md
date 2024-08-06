@@ -46,4 +46,10 @@ The program was mainly developed on the following local machine:
 - Compiler: mpic++ (MPI C++ Compiler)
 - MPI Library: OpenMPI
 
+To install OpenMPI, run:
+
+```shell
+sudo apt install openmpi-bin libopenmpi-dev libopenmpi3 openmpi-doc
+```
+
 It has also been tested on the [PACE ICE](https://gatech.service-now.com/home?id=kb_article_view&sysparm_article=KB0042102) computing clusters.
